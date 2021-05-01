@@ -3,3 +3,6 @@
 * Change email config in functions.py 
 * Change email, district, state in app.py
 * run `python app.py`
+
+
+Works only on indian servers (apis blocked outside india)
